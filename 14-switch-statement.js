@@ -1,0 +1,1 @@
+// used when you are taking one value and checking it against another potential value 
